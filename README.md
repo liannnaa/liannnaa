@@ -1,11 +1,11 @@
-### Hi there 👋
-I am a motivated and ambitious computer science student with a strong background in programming, specifically in languages such as Java, JavaScript, Python, C, GML, and SQL. In addition to my technical abilities, I am a hardworking and dedicated individual with a strong passion for learning and growing as a software engineer and am eager to apply my knowledge and practical experience in a professional setting.
+### Hi there!
+I am a motivated and ambitious computer science student at NYU with a strong background in programming, specifically in languages such as Java, JavaScript, Python, C, GML, and SQL. In addition to my technical abilities, I am a hardworking and dedicated individual with a strong passion for learning and growing as a software engineer and am eager to apply my knowledge and practical experience in a professional setting.
 
-### I'm currently learning:
+### Languages I'm currently learning:
 * CSS
 * HTML
 * JavaScript
-
+### Skills I'm currently learning:
 * Operating Systems
 * Agile Software Development and DevOps
 * Motion Capture
@@ -20,6 +20,6 @@ I am a motivated and ambitious computer science student with a strong background
 * Improving my CS-related skills :)
 
 ### How to reach me:
-Email: [lnpj2003@gmail.com](mailto:lnpj2003@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-School Email: [lnp2016@nyu.edu](mailto:lnp2016@nyu.edu?subject=[GitHub]%20Source%20Han%20Sans)
+Email: [lnpj2003@gmail.com](mailto:lnpj2003@gmail.com?subject=[GitHub]) •
+School Email: [lnp2016@nyu.edu](mailto:lnp2016@nyu.edu?subject=[GitHub]) •
 Linkedin: [Lianna Poblete](https://www.linkedin.com/in/lianna-poblete-3b1684262/)
